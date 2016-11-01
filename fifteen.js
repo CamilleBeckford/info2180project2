@@ -95,7 +95,8 @@ function move(a,space){
 			left: x
 		});
 		a.css({
-			"top": y,9"left": x
+			"top": y,
+			"left": x
 		});
 		canMove();
 	}	
